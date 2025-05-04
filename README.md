@@ -5,11 +5,13 @@ Some preferred default pint rules.
 ## Usage
 
 Download the config file to your project root:
+
 ```
 curl -o pint.json https://raw.githubusercontent.com/mikeycodingstuff/pint-config/main/pint.json
 ```
 
 ## Rules
+
 ```json
 {
   "preset": "laravel",
